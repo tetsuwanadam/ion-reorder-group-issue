@@ -1,0 +1,7 @@
+{
+  "name": "ion-reorder-group-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
